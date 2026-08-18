@@ -31,14 +31,19 @@ A keyword-matching system, shown this sequence:
 
 ## 🖼️ Screenshots
 
-> _Add product screenshots below — recommended: full feed view, the live telemetry/posterior panel, the hype-rejection moment, and the trap-case walkthrough._
 
 | Feed & Recommendation | Live Interest Telemetry |
+
 <img width="1643" height="904" alt="image" src="https://github.com/user-attachments/assets/07f88dd0-339b-4f74-a644-4b093df9dbfc" />
 
 
 | Hype Filter in Action | Trap Case Walkthrough 
+
 <img width="899" height="805" alt="image" src="https://github.com/user-attachments/assets/cf1da891-259e-4acb-b67f-a809ca13d805" />
+
+<img width="1019" height="748" alt="image" src="https://github.com/user-attachments/assets/89e05569-e406-4cac-800e-3af7ec1692dd" />
+
+<img width="1139" height="812" alt="image" src="https://github.com/user-attachments/assets/e314f150-9f4a-4a93-8c9e-2072f4f7ec17" />
 
 ---
 
