@@ -1,0 +1,6 @@
+{
+  "name": "ScrollSmart",
+  "description": "AI agent that analyzes short-form Reel sessions, detects latent interest via Bayesian updates, filters hype via adversarial critic loops, and recommends high-signal tech reels with full explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
